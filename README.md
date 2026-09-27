@@ -4,7 +4,7 @@ A collection of LeetCode solutions and a structured guide to mastering problem-s
 
 ---
 
-## 🚀 The Roadmap: How to Get Into Top Tech Jobs
+## The Roadmap: How to Get Into Top Tech Jobs
 
 Mastering LeetCode is not about the number of problems solved, but the **patterns** you recognize.
 
